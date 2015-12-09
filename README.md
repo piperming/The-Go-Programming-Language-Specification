@@ -1,2 +1,6 @@
 # The-Go-Programming-Language-Specification
-Don't be shy, just to try
+### Go 语言规范
+
+```
+    fmt.Println("Don't be shy, just try!")
+```
