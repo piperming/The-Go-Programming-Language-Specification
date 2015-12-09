@@ -100,7 +100,7 @@
     * [操纵复数-Manipulating complex numbers](11.md#Manipulating-complex-numbers)
     * [处理panic-Handling panics](11.md#Handling-panics)
     * [Bootstrapping](11.md#Bootstrapping)
-* [包-Packages](12.mdPackages)
+* [包-Packages](12.md)
     * [源码结构-Source file organization](12.md#Source-file-organization)
     * [Package-clause](12.md#)
     * [Import声明-Import declarations](12.md#Import-declarations)
