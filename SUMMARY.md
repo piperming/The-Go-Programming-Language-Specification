@@ -1,7 +1,7 @@
 * [简介-Introduction](01/00.md)
 * [符号-Notation](02/00.md)
 * [源码表示-Source code representation](03/00.md)
-    * [编码-Characters](03/01.md)
+    * [字符-Characters](03/01.md)
     * [字母和数字-Letters and digits](03/02.md)
 * [词法元素-Lexical elements](04/00.md)
     * [注释-Comments](04/01.md)
